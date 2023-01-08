@@ -1,0 +1,11 @@
+Model Information:
+* title:	Bare Island Sea Tulips
+* source:	https://sketchfab.com/3d-models/bare-island-sea-tulips-2a936fe6f2d846ad8064825fc081fbd0
+* author:	johnturnbull (https://sketchfab.com/johnturnbull)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Bare Island Sea Tulips" (https://sketchfab.com/3d-models/bare-island-sea-tulips-2a936fe6f2d846ad8064825fc081fbd0) by johnturnbull (https://sketchfab.com/johnturnbull) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
